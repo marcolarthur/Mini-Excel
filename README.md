@@ -1,3 +1,3 @@
 # Mini-Excel
 
-![](Screenshot_3)
+![](Screenshot_3.png)
